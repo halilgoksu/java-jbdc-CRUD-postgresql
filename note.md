@@ -1,6 +1,6 @@
 
 ```text 
----create a database 
+---add driver for connection database
 
 1-https://jdbc.postgresql.org/download/ 
 2-Open module Settings
