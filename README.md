@@ -1,1 +1,1 @@
-# java-jbdc-CRUD-postgresql
+# java-jbdc-CRUD-postgreSql
